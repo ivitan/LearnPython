@@ -1,0 +1,13 @@
+f = open('date.txt')
+try:
+    text = f.read()
+    for line in text.split('\n'):
+        print(line)
+finally:
+    f.close()f = open('date.txt')
+try:
+    text = f.read()
+    for line in text.split('\n'):
+        print(line)
+finally:
+    f.close()
