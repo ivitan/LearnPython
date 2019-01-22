@@ -12,7 +12,7 @@ import sys
 
 
 picture = load_sample_image('china.jpg')
-pic2 = img.imread('v.jpg')
+pic2 = img.imread('vitan.jpg')
 # 根据图片的分辨率，可适当降低分辨率。
 image = picture[::3,::3]# 横纵每三个点去一个颜色值
 plt.imshow(image)
