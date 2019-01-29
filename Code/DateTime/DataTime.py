@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # author by : Vitan
 
-# 一、处理日期时间
+# 处理日期时间
 # 取系统时间
 from datetime import datetime,timedelta
 now = datetime.now()
