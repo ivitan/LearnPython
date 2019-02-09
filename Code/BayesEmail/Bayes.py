@@ -13,7 +13,7 @@ from sklearn import datasets
 from sklearn.naive_bayes import BernoulliNB
 iris=datasets.load_iris()
 
-gnb=BernoulliNB()#构造模型
+gnb=BernoulliNB()
 
 pred=gnb.fit(iris.data,iris.target) #模型训练，拟合
 y_pred=gnb.predict(iris.data) #分类预测
