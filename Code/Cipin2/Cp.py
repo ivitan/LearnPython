@@ -29,7 +29,7 @@ print("============")
 wordList = list(data.items())
 # 函数定义
 '''
-def takeSecond(elem): # 定义函数，获取每个单词的次数项
+def takeSecond(elem): # 获取每个单词的次数项
     return elem[1]
 wordList.sort(key = takeSecond,reverse = True)
 '''
