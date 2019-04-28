@@ -23,13 +23,14 @@ CNT_CSC 有偿服务次数
 
 import pandas as pd
 import os
-os.chdir(r"D:\Python_Training\script_Python\13Dimensionality_reduction")
+os.chdir(r"F:/WorkPlace/Python/analysis/13城市指标描述与银行用户画像特征提取/")
 model_data = pd.read_csv("profile_bank.csv")
 data = model_data.ix[ :,'CNT_TBM':'CNT_CSC']
 
 # - 2、查看相关系数矩阵，判定做变量降维的必要性（非必须）
 
 # In[3]:
+# pearson （皮尔逊）线性相关关系
 corr_matrix = data.corr(method='pearson')
 #corr_matrix = data.corr(method='spearman')
 
@@ -47,6 +48,7 @@ from sklearn.decomposition import PCA
 '''
 pca=PCA(n_components=3)
 pca.fit(data)
+# 解释编译必须大于1，主成分特征取值相加大于0.9
 print(pca.explained_variance_)#建议保留2个主成分
 print(pca.explained_variance_ratio_)#建议保留3个主成分
 #%%
@@ -188,7 +190,7 @@ def Var_Select(orgdata, k, alphaMax=10, alphastep=0.2):
 
 # In[66]:
 import os
-os.chdir(r"D:\Python_Training\script_Python\13Dimensionality_reduction")
+os.chdir(r"F:/WorkPlace/Python/analysis/13城市指标描述与银行用户画像特征提取/")
 import pandas as pd
 model_data = pd.read_csv("profile_bank.csv")
 data = model_data.ix[ :,'CNT_TBM':'CNT_CSC']
