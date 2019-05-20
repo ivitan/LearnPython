@@ -50,9 +50,10 @@ var_c = ["GiftCnt36","GiftCntAll","GiftCntCard36",
          "GiftCntCardAll","GiftTimeLast","GiftTimeFirst",
          "PromCnt12","PromCnt36","PromCntAll",
          "PromCntCard12","PromCntCard36","PromCntCardAll",
-         "StatusCatStarAll","DemAge","DemMedHomeValue",
-         "DemPctVeterans","DemMedIncome","GiftAvgLast",
-         "GiftAvg36","GiftAvgAll","GiftAvgCard36"]
+         "StatusCatStarAll","DemAge","DemPctVeterans",
+         "GiftAvgLast","GiftAvg36","GiftAvgAll","GiftAvgCard36"]
+
+# 'DemMedHomeValue' 'DemMedIncome'
 
 # 分类变量
 var_d = ['StatusCat96NK', 'DemHomeOwner', 'DemGender', 'DemCluster']
@@ -531,6 +532,7 @@ train_est_p = logistic_model.predict_proba(train_data)[:,1]
 
 
 import seaborn as sns
+from sklearn import metrics
 red, blue = sns.color_palette("Set1",2)
 
 

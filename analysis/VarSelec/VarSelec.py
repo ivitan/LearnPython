@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*-
 
+# In[66]:
+import os
+os.chdir(r"G:\WorkPlace\Python\analysis\特征工程与慈善机构精准营销案例\13Dimensionality_reduction")
+import pandas as pd
+orgdata = pd.read_csv("profile_bank.csv")
+k = model_data.ix[ :,'CNT_TBM':'CNT_CSC']
+
+
 def Var_Select(orgdata, k,alphaMin=0.1, alphaMax=200, alphastep=0.2):
     """
     orgdata-需要信息压缩的数据框

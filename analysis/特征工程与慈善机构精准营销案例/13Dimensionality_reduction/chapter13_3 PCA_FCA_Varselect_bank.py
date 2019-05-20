@@ -23,7 +23,7 @@ CNT_CSC 有偿服务次数
 
 import pandas as pd
 import os
-os.chdir(r"F:\WorkPlace\Python\analysis\特征工程与慈善机构精准营销案例\13Dimensionality_reduction")
+os.chdir(r"G:\WorkPlace\Python\analysis\特征工程与慈善机构精准营销案例\13Dimensionality_reduction")
 model_data = pd.read_csv("profile_bank.csv")
 data = model_data.ix[ :,'CNT_TBM':'CNT_CSC']
 
@@ -188,7 +188,7 @@ def Var_Select(orgdata, k, alphaMax=10, alphastep=0.2):
 
 # In[66]:
 import os
-os.chdir(r"F:\WorkPlace\Python\analysis\特征工程与慈善机构精准营销案例\13Dimensionality_reduction")
+os.chdir(r"G:\WorkPlace\Python\analysis\特征工程与慈善机构精准营销案例\13Dimensionality_reduction")
 import pandas as pd
 model_data = pd.read_csv("profile_bank.csv")
 data = model_data.ix[ :,'CNT_TBM':'CNT_CSC']
