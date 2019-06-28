@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42839ef5-1b43-490c-b84e-720190405178" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/.ipynb_checkpoints/1.1 Python Basic-（课堂练习版）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/.ipynb_checkpoints/1.1 Python Basic-（课堂练习版）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/.ipynb_checkpoints/2.2 BeautifulSoup撰写网页爬虫（课堂练习）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/.ipynb_checkpoints/2.2 BeautifulSoup撰写网页爬虫（课堂练习）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/1.1 Python Basic/1.1 Python Basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/1.1 Python Basic/1.1 Python Basic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/2.2 BeautifulSoup撰写网页爬虫/.ipynb_checkpoints/2.2 BeautifulSoup撰写网页爬虫（课堂练习）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/2.2 BeautifulSoup撰写网页爬虫/.ipynb_checkpoints/2.2 BeautifulSoup撰写网页爬虫（课堂练习）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/2.2 BeautifulSoup撰写网页爬虫/2.2 BeautifulSoup撰写网页爬虫.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/2.2 BeautifulSoup撰写网页爬虫/2.2 BeautifulSoup撰写网页爬虫.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.2  数据筛选-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.2  数据筛选-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.3Detecting Missing Value-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.3Detecting Missing Value-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.4 Imputing Missing Value-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.4 Imputing Missing Value-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.5 House Data Missing Value Detection and Imputation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/.ipynb_checkpoints/3.5 House Data Missing Value Detection and Imputation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.2  数据筛选.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.2  数据筛选.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.3Detecting Missing Value.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.3Detecting Missing Value.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.4 Imputing Missing Value.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.4 Imputing Missing Value.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.5 House Data Missing Value Detection and Imputation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/3.5 House Data Missing Value Detection and Imputation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/house_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/house_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/3数据清理/house_final.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/3数据清理/house_final.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/5数据探索与可视化/5.3 E-Commerce Website Page View Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/5数据探索与可视化/5.3 E-Commerce Website Page View Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/7.5 回归分析/.ipynb_checkpoints/7.5 Regression Validation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/7.5 回归分析/.ipynb_checkpoints/7.5 Regression Validation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/7.5 回归分析/7.5 Regression Validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/7.5 回归分析/7.5 Regression Validation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/7.5 回归分析/house-prices.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/7.5 回归分析/house-prices.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/BeautifulSoup/.ipynb_checkpoints/beautifulsoup无答案（授课版练习版本）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/BeautifulSoup/.ipynb_checkpoints/beautifulsoup无答案（授课版练习版本）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/BeautifulSoup/beautifulsoup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/BeautifulSoup/beautifulsoup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/Fangtx/.ipynb_checkpoints/2.3房天下房屋数据搜集-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/Fangtx/.ipynb_checkpoints/2.3房天下房屋数据搜集-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/Fangtx/.ipynb_checkpoints/2.3房天下房屋数据搜集（课堂练习）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/Fangtx/.ipynb_checkpoints/2.3房天下房屋数据搜集（课堂练习）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/Fangtx/2.3房天下房屋数据搜集.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/Fangtx/2.3房天下房屋数据搜集.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/Fangtx/2.3房天下房屋数据搜集（课堂练习）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/Fangtx/2.3房天下房屋数据搜集（课堂练习）.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/PySpider/mafeng.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/PySpider/mafeng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/pyquery练习版/.ipynb_checkpoints/pyquery（课堂练习版）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/pyquery练习版/.ipynb_checkpoints/pyquery（课堂练习版）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/pyquery练习版/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/pyquery练习版/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/pyquery练习版/pyquery.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/pyquery练习版/pyquery.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/regex/.ipynb_checkpoints/regex(课堂讲授版)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/regex/.ipynb_checkpoints/regex(课堂讲授版)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/regex/regex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/regex/regex.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/requests类库/.ipynb_checkpoints/Request_test-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/requests类库/.ipynb_checkpoints/Request_test-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/requests类库/.ipynb_checkpoints/requests( 课堂讲授版)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/requests类库/.ipynb_checkpoints/requests( 课堂讲授版)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/requests类库/Request_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/requests类库/Request_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/requests类库/requests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/requests类库/requests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/selenium/.ipynb_checkpoints/selenium（课堂讲授无答案版）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/selenium/.ipynb_checkpoints/selenium（课堂讲授无答案版）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/selenium/selenium.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/selenium/selenium.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.1 Data Transformation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.1 Data Transformation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.2 Time Conversion-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.2 Time Conversion-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.3 Reshaping Data-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.3 Reshaping Data-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.5 News Data Preprocessing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/.ipynb_checkpoints/4.5 News Data Preprocessing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.1 Data Transformation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.1 Data Transformation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.2 Time Conversion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.2 Time Conversion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.3 Reshaping Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.3 Reshaping Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.5 News Data Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/4.5 News Data Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据清理2/movie.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据清理2/movie.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/.ipynb_checkpoints/Data Transformation(课堂讲授练习)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/.ipynb_checkpoints/Data Transformation(课堂讲授练习)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/Data Transformation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/Data Transformation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/Population.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/Population.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/tmp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/tmp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/weather.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/数据类型与文档的导入导出/weather.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/.ipynb_checkpoints/MaoYanMovice-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/.ipynb_checkpoints/MaoYanMovice-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/.ipynb_checkpoints/猫眼电影（课堂练习）-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/.ipynb_checkpoints/猫眼电影（课堂练习）-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/MaoYanMovice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/MaoYanMovice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/movies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/movies.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Class/猫眼电影/movies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Bayes/Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Bayes/Bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Bayes/SklearnBayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Bayes/SklearnBayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/Bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/BayesEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/BayesEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/Email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/Email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/Email2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/Email2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/SMSSpamCollectionjsn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/BayesEmail/SMSSpamCollectionjsn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Boston/BayesEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Boston/BayesEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Boston/BostonHose.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Boston/BostonHose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Boston/BostonHose2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Boston/BostonHose2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Boston/K-MeanPicture.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Boston/K-MeanPicture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Boston/me.vitan.NewsClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Boston/me.vitan.NewsClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/Cipin2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/Cipin2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/CipinInCh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/CipinInCh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/Cp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/Cp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/ch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/ch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/cipin_ch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/cipin_ch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/CiPin2/cp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/CiPin2/cp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Cipin/Cipin (2).py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Cipin/Cipin (2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Cipin/Lrc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Cipin/Lrc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Cipin/cipin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Cipin/cipin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/DateTime/DataTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/DateTime/DataTime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/55-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/55-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/Anjuke-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/Anjuke-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/数据建模-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/数据建模-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/数据探索-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/数据探索-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/数据清洗-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/.ipynb_checkpoints/数据清洗-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/55.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/55.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/GuangzhouAn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/GuangzhouAn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/house_final.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/house_final.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/数据建模.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/数据建模.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/数据探索.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/数据探索.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/数据清洗.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/GuangzhouAnjuke/数据清洗.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Numpy/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Numpy/Numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Qunar/QunarComment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Qunar/QunarComment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Sklearn/ImageCompress.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Sklearn/ImageCompress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Sklearn/LinearRegression/MutBoston.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Sklearn/LinearRegression/MutBoston.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Sklearn/LinearRegression/PolynomialFeatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Sklearn/LinearRegression/PolynomialFeatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Sklearn/LinearRegression/SklearnBoston.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Sklearn/LinearRegression/SklearnBoston.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Sklearn/MutNumpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Sklearn/MutNumpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Sklearn/Sklearn_Image.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Sklearn/Sklearn_Image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/Sklearn/Sklearn_iris.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/Sklearn/Sklearn_iris.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.py/BianLo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.py/BianLo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.py/tj.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.py/tj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.py/vi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.py/vi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Boston.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Boston.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Kmeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/MaoTuView.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/MaoTuView.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/PolynomialBoston.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/PolynomialBoston.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Qunar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Qunar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/SeleniumMaFengWo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/SeleniumMaFengWo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Sklearn_iris.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/Sklearn_iris.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/anjuke.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/anjuke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/c.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/dddc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/dddc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/fgd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/fgd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/iris_Kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/iris_Kmeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/mao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/mao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/maoming.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/maoming.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/maoyan_pool_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/maoyan_pool_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/qunae.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/qunae.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/syt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/syt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/xrld.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/com.vitan.test/xrld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/text/Angle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/text/Angle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/text/Duanzi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/text/Duanzi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/text/Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/text/Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/text/Zhuanhuan.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/text/Zhuanhuan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/text/guess_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/text/guess_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/text/numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/text/numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/Code/text/sfz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/Code/text/sfz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/BeautifulSoup详解/.ipynb_checkpoints/beautifulsoup-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/BeautifulSoup详解/.ipynb_checkpoints/beautifulsoup-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/BeautifulSoup详解/beautifulsoup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/BeautifulSoup详解/beautifulsoup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/PyQuery详解/.ipynb_checkpoints/pyquery-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/PyQuery详解/.ipynb_checkpoints/pyquery-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/PyQuery详解/pyquery.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/PyQuery详解/pyquery.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Requests讲解/requests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Requests讲解/requests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Scrapy新浪微博/代码.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Scrapy新浪微博/代码.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Selenium详解/.ipynb_checkpoints/selenium-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Selenium详解/.ipynb_checkpoints/selenium-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Selenium详解/selenium.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/Selenium详解/selenium.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/urllib讲解/urllib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/urllib讲解/urllib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/正则表达式/.ipynb_checkpoints/regex-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/正则表达式/.ipynb_checkpoints/regex-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl/PyWebCrawl/正则表达式/regex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawl/PyWebCrawl/正则表达式/regex.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/Loan_aply.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/Loan_aply.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/chapter13_3 PCA_FCA_Varselect_bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/chapter13_3 PCA_FCA_Varselect_bank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/cities_10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/cities_10.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/profile_bank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/13城市指标描述与银行用户画像特征提取/profile_bank.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/不平衡样本问题/imb_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/不平衡样本问题/imb_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/不平衡样本问题/imb_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/不平衡样本问题/imb_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/作业/date_data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/作业/date_data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/作业/date_data_r.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/作业/date_data_r.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/作业/作业要求.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/作业/作业要求.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/脚本/ANN/telecom_churn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/脚本/ANN/telecom_churn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/AllElectronics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/AllElectronics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/cart.dot" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/cart.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/telecom_churn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/telecom_churn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/作业要求.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/决策树/脚本/DT/作业要求.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/北京二手房/sndHsPr.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/北京二手房/sndHsPr.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/北京二手房/作业要求.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/北京二手房/作业要求.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/客户信用综合评分/Loan_aply.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/客户信用综合评分/Loan_aply.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/客户信用综合评分/chapter13_1 PCA_Loan_apply.py" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/客户信用综合评分/chapter13_1 PCA_Loan_apply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/用户出险情况探索分析/auto_ins.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/用户出险情况探索分析/auto_ins.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analysis/用户出险情况探索分析/作业要求.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../analysis/用户出险情况探索分析/作业要求.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_abc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_abc.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Suanfa.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="347" />
+    <option name="y" value="58" />
+    <option name="width" value="847" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Suanfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="01_abc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Suanfa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_abc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_abc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42839ef5-1b43-490c-b84e-720190405178" name="Default Changelist" comment="" />
+      <created>1561268819805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561268819805</updated>
+      <workItem from="1561268823830" duration="3499000" />
+      <workItem from="1561273663464" duration="362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3861000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="347" y="58" width="847" height="1000" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Suanfa$01_abc.coverage" NAME="01_abc Coverage Results" MODIFIED="1561271668993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
